@@ -1,3 +1,10 @@
+## [1.11.2](https://github.com/mini-app-polis/task-refiner-cog/compare/v1.11.1...v1.11.2) (2026-11-08)
+
+
+### Bug Fixes
+
+* **deps:** bump the minor-and-patch group with 4 updates ([0d6f990](https://github.com/mini-app-polis/task-refiner-cog/commit/0d6f9900a950ba4863bc1bf165ae3610ac9a7a63))
+
 ## [1.11.1](https://github.com/mini-app-polis/task-refiner-cog/compare/v1.11.0...v1.11.1) (2026-11-08)
 
 
