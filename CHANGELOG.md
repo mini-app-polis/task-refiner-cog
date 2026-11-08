@@ -1,3 +1,18 @@
+# [1.11.0](https://github.com/mini-app-polis/task-refiner-cog/compare/v1.10.6...v1.11.0) (2026-11-08)
+
+
+### Bug Fixes
+
+* **deps:** bump miniapppolis-common-utils to 8.10.0 ([9ccd7a9](https://github.com/mini-app-polis/task-refiner-cog/commit/9ccd7a901f74333142271e08dab2b2fb089a007e))
+* **deps:** bump miniapppolis-common-utils to 8.10.1 ([4161a1e](https://github.com/mini-app-polis/task-refiner-cog/commit/4161a1efac68dd356e5122dfdf4c111208f2f5c9))
+* **deps:** bump miniapppolis-common-utils to 8.8.0 ([8cb89c1](https://github.com/mini-app-polis/task-refiner-cog/commit/8cb89c1f779f41fd22d7f1f836ece66d7f6308d2))
+* **deps:** bump miniapppolis-common-utils to 8.9.0 ([9ddaef3](https://github.com/mini-app-polis/task-refiner-cog/commit/9ddaef33faad832e3a7125e8470fd54dfa2e21bf))
+
+
+### Features
+
+* run on Python 3.14 ([dbd65b0](https://github.com/mini-app-polis/task-refiner-cog/commit/dbd65b0853b030e347b6530000739223eca6871f))
+
 ## [1.10.6](https://github.com/mini-app-polis/task-refiner-cog/compare/v1.10.5...v1.10.6) (2026-11-07)
 
 
