@@ -1,3 +1,12 @@
+## [1.11.4](https://github.com/mini-app-polis/task-refiner-cog/compare/v1.11.3...v1.11.4) (2026-11-10)
+
+
+### Bug Fixes
+
+* **deps:** bump miniapppolis-common-utils to 9.1.0 ([2d39ef2](https://github.com/mini-app-polis/task-refiner-cog/commit/2d39ef2ec31047e05f6bff83f3d88787a1d26f02))
+* **deps:** bump miniapppolis-common-utils to 9.2.0 ([1c8f8c7](https://github.com/mini-app-polis/task-refiner-cog/commit/1c8f8c7ac8f74e06b998e170520ab62d0aa79b30))
+* **deps:** bump miniapppolis-common-utils to 9.3.0 ([f94bd5e](https://github.com/mini-app-polis/task-refiner-cog/commit/f94bd5e6bc4478c42364221e591b9836096bdd48))
+
 ## [1.11.3](https://github.com/mini-app-polis/task-refiner-cog/compare/v1.11.2...v1.11.3) (2026-11-09)
 
 
